@@ -1,5 +1,7 @@
 # Spotiapp
 
+# actualizar token de la api
+
 ### npm install @angular-devkit/build-angular
 
 # Token de spotify - hacer peticion post en postman
