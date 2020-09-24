@@ -1,5 +1,10 @@
 # Spotiapp
 
+### npm install @angular-devkit/build-angular
+
+# Token de spotify - hacer peticion post en postman
+### https://accounts.spotify.com/api/token
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
 ## Development server
